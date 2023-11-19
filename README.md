@@ -1,5 +1,4 @@
 # ThucHanh_WWW_Buoi6
-Thực hành WWW
 -Sinh viên: **Nguyễn Trường Tuấn Kiệt**
 ---
 # Trang Blog
