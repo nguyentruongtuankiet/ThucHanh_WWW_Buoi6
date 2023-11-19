@@ -1,5 +1,5 @@
 # ThucHanh_WWW_Buoi6
--Sinh viên: **Nguyễn Trường Tuấn Kiệt**
+- Sinh viên: **Nguyễn Trường Tuấn Kiệt**
 ---
 # Trang Blog
 ---
